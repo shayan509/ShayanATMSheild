@@ -1,0 +1,21 @@
+{
+  "name": "shayan_atm_sheild",
+  "version": "1.0.0",
+  "description": "This is simple atm with typescript , nod &, iquirer.",
+  "main": "index.js",
+  "type": "module",
+  "publishingConfig" : {
+    "access" : "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad shayan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
